@@ -13,7 +13,9 @@ The game was designed on levels, each with increasing difficulty. To advance, th
 of spikes and the snake's speed increase. In each level, there are a number of regular eggs and a golden one. Eating the golden egg will automatically trigger level advancement, and the snake will start at the center
 of the screen with its new speed.
 
-![alt text]()
+![alt text](https://github.com/ana-512-git/mobile-snake-game-XAMK/blob/main/readme-media/Screenshot_20210103-041148_Module5_SnakeGame.jpg)
+
+![alt text](https://github.com/ana-512-git/mobile-snake-game-XAMK/blob/main/readme-media/Screenshot_20210103-041933_Module5_SnakeGame.jpg)
 
 ## Tech stack
 + C# for game logic and scripts
